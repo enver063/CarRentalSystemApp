@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarRentalSystem_2_.BL.MuserBL" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAAIAIAAAAAQAAAAAAAAAAAAgACRAAAAAAAAA=</HashCode>
+      <FileName>BL\MuserBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.BL.RegistrationBL" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAABBDCEIIEQAAGAAhEACCgQQYAAAxAFAAQEgoGxAAA=</HashCode>
+      <FileName>BL\RegistrationBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.BL.BillingBL" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\BillingBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.BL.JazzCashorEasyPaisa" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACFCABAEAgAAEAAAAQAAAABAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BL\BillingBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.BL.CreditorDebitCard" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAIBCAAAIAAAAAAACIAAAcAAAAAA=</HashCode>
+      <FileName>BL\BillingBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.BL.CarBL" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAMAAAADQAAABAAAAA4CAAAMAgAAAAEAACAAEAAg=</HashCode>
+      <FileName>BL\CarBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.DL.BillingDL" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAACBAAEBA=</HashCode>
+      <FileName>DL\BillingDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.DL.MuserDL" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAiIAACQAAAAAAAAAAAAAQQAAAgAAAAAAAAAAAg=</HashCode>
+      <FileName>DL\MuserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.DL.CarDL" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAAAAQAAAAAgABAIAQAAAAAAgMAAQAQAIABBA=</HashCode>
+      <FileName>DL\CarDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.DL.RegistrationDL" Collapsed="true">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAADAAAAAAAgIAAAAEAAAAAAAAAAAAAEEA=</HashCode>
+      <FileName>DL\RegistrationDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.AddCarForm3" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RUQHABhLADQCEBAGEgHABCQyAIBJCICYgGFggZFiIqQ=</HashCode>
+      <FileName>AddCarForm3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.CustomerBookingForm3" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQMAMhBTBCAQIBACMgCAQAASAIAfAAAAgGEBAYBAIKQ=</HashCode>
+      <FileName>CustomerBookingForm3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.CustomerFeedbackForm3" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQIAABBTECAgABACEgCCAEASgIAnAAEAgGFAEcBEYKQ=</HashCode>
+      <FileName>CustomerFeedbackForm3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.CustomerMainForm" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQIAABDbACAAEhACEgCAAAQSAICBAAAAgGEAAYBAIKU=</HashCode>
+      <FileName>CustomerMainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.EmployForm" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>B4AFIhBbACQAExgmEgHABCQSAIBJDkAYgGEgAYBAI6Q=</HashCode>
+      <FileName>EmployForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.ForgotPasswordForm" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAKAAABQEAACAQAAiAAAAQIAAQIAAAQFQAIA=</HashCode>
+      <FileName>ForgotPasswordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.Form2" Collapsed="true">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAILCACAAAhAAEwCCQAACCAAC4AAAAIAAAQBYAIA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.GenerateBillForm" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dQQFABhbADQAEhAGEwGIBCYSAIRJCAE4gCEgAYBCIq0=</HashCode>
+      <FileName>GenerateBillForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.PaymentJazzCashForm" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACBCRACAhAhAAAAGAAAAiCIABAAAAACABAABABSA=</HashCode>
+      <FileName>PaymentJazzCashForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.PaymentOptionForm" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACBCQACAhAhAAEICAAAAiAIABAgAAAAABAABABDA=</HashCode>
+      <FileName>PaymentOptionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.RegistrationForm" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/8QHQBxbEHRQEniGkxnBhaQ3ALBJDgQ8hWMwA4DmK/U=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.RegistrationUpdate" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/0ACQBBTADBQEjgCExmAhDQzAIBJDAQohGMAAYDmKPU=</HashCode>
+      <FileName>RegistrationUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.SearchcarForm" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FQEFABBbACAAEBAWEgGABCQSCMFLCAAYgGFgAYBAIqQ=</HashCode>
+      <FileName>SearchcarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.SearchCustomerCarForm3" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FQIAABBTACAAABASEgCAAAASCIALAAAAgGFAAYBAKKQ=</HashCode>
+      <FileName>SearchCustomerCarForm3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.SearchRegisteredData" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQEFABBbACAQEBAGEgGABCQSAIFrCAAagGEhAIBAIqQ=</HashCode>
+      <FileName>SearchRegisteredData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.SignUp" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAACAACAAARBAACCiQAACAAACQAAAAIAAAQBYAIA=</HashCode>
+      <FileName>SignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.UpdateCarForm3" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BUAHABBLADQAEBAGEgGABCQSAIBJCgAYgCFggYBCIqQ=</HashCode>
+      <FileName>UpdateCarForm3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.UpdateViewProfileForm3" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgABIhAAACAAABAAAACCQAACAIADAIgAgAAAAABIACA=</HashCode>
+      <FileName>UpdateViewProfileForm3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.ViewCarsDataForm" Collapsed="true">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQUFABBbACQQEBAGMgGABCQSAIFJCAAYACEhAYBAIqQ=</HashCode>
+      <FileName>ViewCarsDataForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.ViewCustomerProfileForm3" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgIAIhBQACAAABACAACCQAACAIALAIAAgEMAAYBIAKA=</HashCode>
+      <FileName>ViewCustomerProfileForm3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.ViewFeedbackForm" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAABBTACACABACEgGAACASAIBLCQAIgCEBAYBAIKQ=</HashCode>
+      <FileName>ViewFeedbackForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.ViewPaymentData" Collapsed="true">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABBTACAQApACMgGAACASAIFZCAAKgCEAAYBAIKQ=</HashCode>
+      <FileName>ViewPaymentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.ViewProfileForm" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BwAFIhBbACAAEBAGEgGCRCQSAIBLiIAYgCMgAYBIIqQ=</HashCode>
+      <FileName>ViewProfileForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalSystem_2_.ViewRecordsForm" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRUFABBbACQQEBgGEgGABCQSAIFpDAAagCEgAcBAIqQ=</HashCode>
+      <FileName>ViewRecordsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
